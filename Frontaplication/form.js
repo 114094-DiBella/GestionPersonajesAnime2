@@ -35,10 +35,21 @@ document.getElementById('dataForm').addEventListener('submit', async function(e)
         imagenUrl
     };
  
+    // Enviar formulario
+    const token = localStorage.getItem('token');
+    if (!token) {
+        alert('No hay sesión activa');
+        window.location.href = 'login.html';
+        return;
+    }
+ 
     try {
         const response = await fetch('https://localhost:7250/api/Personaje/create', {
             method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
+            headers: { 
+               'Content-Type': 'application/json',
+               'Authorization': `Bearer ${token}` //Enviando el token
+            },
             body: JSON.stringify(formData)
         });
         

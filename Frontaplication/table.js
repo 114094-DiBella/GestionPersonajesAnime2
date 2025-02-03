@@ -1,12 +1,23 @@
 async function cargarDatos() {
     const tableBody = document.getElementById('tableBody');
     const url = "https://localhost:7250/api/Personaje/getAll";
+
+    const token = localStorage.getItem('token');
+    if (!token) {
+        alert('No hay sesión activa');
+        window.location.href = 'login.html';
+        return;
+    }
     
     try {
-        const response = await fetch(url);
-        const data = await response.json();
-        
+        const response = await fetch("https://localhost:7250/api/Personaje/getAll", {
+           headers: {
+               'Authorization': `Bearer ${token}`
+           }
+       });
+             
         if (response.ok) {
+            const data = await response.json();
             tableBody.innerHTML = data.map(personaje => `
                 <tr>
                     <td>${personaje.idPersonaje}</td>

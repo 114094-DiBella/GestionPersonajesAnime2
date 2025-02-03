@@ -10,10 +10,12 @@ namespace WebApplication1.Controllers
     public class LoginController : ControllerBase
     {
         private readonly ILoginService _loginService;
+        private readonly JwtService _jwtService;
 
-        public LoginController(ILoginService loginService)
+        public LoginController(ILoginService loginService, JwtService jwtService)
         {
             _loginService = loginService;
+            _jwtService = jwtService;
         }
 
         [HttpPost("login")]
@@ -23,7 +25,8 @@ namespace WebApplication1.Controllers
             if (user == null)
                 return Unauthorized();
 
-            return Ok(user);
+            var token = _jwtService.GenerateToken(user);
+            return Ok(new { token });
         }
 
         [HttpPost("register")]

@@ -1,34 +1,27 @@
 document.getElementById('loginForm').addEventListener('submit', async function(e) {
     e.preventDefault();
-    const url = "https://localhost:7250/api/Login/login";
-    const username = document.getElementById('username').value;
-    const password = document.getElementById('password').value;
     
+    const formData = {
+        username: document.getElementById('username').value,
+        password: document.getElementById('password').value
+    };
+ 
     try {
-        const response = await fetch(url, {
+        const response = await fetch('https://localhost:7250/api/Login/login', {
             method: 'POST',
-            headers: {
-                'Content-Type': 'application/json'
-            },
-            body: JSON.stringify({
-                username: username,
-                password: password
-            })
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(formData)
         });
-
-        const data = await response.json();
-        
+ 
         if (response.ok) {
-            alert('Login exitoso!');
-            // Aquí podrías guardar el token si el backend lo envía
-            // localStorage.setItem('token', data.token);
-            // window.location.href = 'dashboard.html';
+            const data = await response.json();
+            localStorage.setItem('token', data.token);
             window.location.href = 'table.html';
         } else {
-            alert(data.message || 'Error en el login');
+            alert('Credenciales inválidas');
         }
     } catch (error) {
         alert('Error de conexión');
-        console.error('Error:', error);
+        console.error(error);
     }
-});
+ });
