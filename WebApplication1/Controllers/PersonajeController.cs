@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using WebApplication1.Dtos;
 using WebApplication1.Models;
+using WebApplication1.Response;
 using WebApplication1.Services;
 
 namespace WebApplication1.Controllers
@@ -18,9 +19,9 @@ namespace WebApplication1.Controllers
         {
             _personajeService = personajeService;
         }
-
+        [Authorize]
         [HttpGet("getAll")]
-        public async Task<ActionResult<List<Personaje>>> GetAll()
+        public async Task<ActionResult<ApiResponse<List<Personaje>>>> GetAll()
         {
             try
             {
@@ -32,7 +33,7 @@ namespace WebApplication1.Controllers
                 return StatusCode(500, "Error interno al obtener personajes");
             }
         }
-
+        [Authorize]
         [HttpPost("create")]
         public async Task<ActionResult<Personaje>> Create([FromBody] PersonajeDTO personaje)
         {
@@ -46,7 +47,7 @@ namespace WebApplication1.Controllers
                 return BadRequest("Error al crear el personaje");
             }
         }
-
+        [Authorize]
         [HttpGet("getById/{id}")]
         public async Task<ActionResult<Personaje>> GetById(int id)
         {
@@ -56,7 +57,7 @@ namespace WebApplication1.Controllers
 
             return Ok(personaje);
         }
-
+        [Authorize]
         [HttpPut("update/{id}")]
         public async Task<ActionResult<Personaje>> Update(int id, [FromBody] PersonajeDTO personaje)
         {
