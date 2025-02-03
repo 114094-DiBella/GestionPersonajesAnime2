@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pCZQ+GGuE3s=",
+  "dgSpecHash": "wL29umxcZj0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\agu\\Desktop\\Finales 2024 - 2025\\Examenes Finales Base first\\TemplateC-CF\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\Users\\agu\\Desktop\\Finales 2024 - 2025\\Examenes Finales Code First\\GestionPersonajesAnime2\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\agu\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\agu\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

@@ -4928,11 +4928,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\agu\\Desktop\\Finales 2024 - 2025\\Examenes Finales Base first\\TemplateC-CF\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\agu\\Desktop\\Finales 2024 - 2025\\Examenes Finales Code First\\GestionPersonajesAnime2\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\agu\\Desktop\\Finales 2024 - 2025\\Examenes Finales Base first\\TemplateC-CF\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "C:\\Users\\agu\\Desktop\\Finales 2024 - 2025\\Examenes Finales Code First\\GestionPersonajesAnime2\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\agu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\agu\\Desktop\\Finales 2024 - 2025\\Examenes Finales Base first\\TemplateC-CF\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Users\\agu\\Desktop\\Finales 2024 - 2025\\Examenes Finales Code First\\GestionPersonajesAnime2\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

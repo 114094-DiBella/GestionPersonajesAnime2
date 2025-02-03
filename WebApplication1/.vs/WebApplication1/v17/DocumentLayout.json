@@ -1,13 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\agu\\Desktop\\Finales 2024 - 2025\\Examenes Finales Base first\\TemplateC-CF\\WebApplication1\\",
+  "WorkspaceRootPath": "C:\\Users\\agu\\Desktop\\Finales 2024 - 2025\\Examenes Finales Code First\\GestionPersonajesAnime2\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3FEB3C8-DAED-439B-8FEB-CF8EFAF3464D}|WebApplication1.csproj|c:\\users\\agu\\desktop\\finales 2024 - 2025\\examenes finales base first\\templatec-cf\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3FEB3C8-DAED-439B-8FEB-CF8EFAF3464D}|WebApplication1.csproj|c:\\users\\agu\\desktop\\finales 2024 - 2025\\examenes finales code first\\gestionpersonajesanime2\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3FEB3C8-DAED-439B-8FEB-CF8EFAF3464D}|WebApplication1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3FEB3C8-DAED-439B-8FEB-CF8EFAF3464D}|WebApplication1.csproj|c:\\users\\agu\\desktop\\finales 2024 - 2025\\examenes finales base first\\templatec-cf\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{E3FEB3C8-DAED-439B-8FEB-CF8EFAF3464D}|WebApplication1.csproj|c:\\users\\agu\\desktop\\finales 2024 - 2025\\examenes finales code first\\gestionpersonajesanime2\\webapplication1\\controllers\\personajecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FEB3C8-DAED-439B-8FEB-CF8EFAF3464D}|WebApplication1.csproj|solutionrelative:controllers\\personajecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FEB3C8-DAED-439B-8FEB-CF8EFAF3464D}|WebApplication1.csproj|c:\\users\\agu\\desktop\\finales 2024 - 2025\\examenes finales code first\\gestionpersonajesanime2\\webapplication1\\services\\impl\\personajeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FEB3C8-DAED-439B-8FEB-CF8EFAF3464D}|WebApplication1.csproj|solutionrelative:services\\impl\\personajeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FEB3C8-DAED-439B-8FEB-CF8EFAF3464D}|WebApplication1.csproj|c:\\users\\agu\\desktop\\finales 2024 - 2025\\examenes finales code first\\gestionpersonajesanime2\\webapplication1\\models\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FEB3C8-DAED-439B-8FEB-CF8EFAF3464D}|WebApplication1.csproj|solutionrelative:models\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FEB3C8-DAED-439B-8FEB-CF8EFAF3464D}|WebApplication1.csproj|c:\\users\\agu\\desktop\\finales 2024 - 2025\\examenes finales code first\\gestionpersonajesanime2\\webapplication1\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FEB3C8-DAED-439B-8FEB-CF8EFAF3464D}|WebApplication1.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FEB3C8-DAED-439B-8FEB-CF8EFAF3464D}|WebApplication1.csproj|c:\\users\\agu\\desktop\\finales 2024 - 2025\\examenes finales code first\\gestionpersonajesanime2\\webapplication1\\services\\impl\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FEB3C8-DAED-439B-8FEB-CF8EFAF3464D}|WebApplication1.csproj|solutionrelative:services\\impl\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FEB3C8-DAED-439B-8FEB-CF8EFAF3464D}|WebApplication1.csproj|c:\\users\\agu\\desktop\\finales 2024 - 2025\\examenes finales code first\\gestionpersonajesanime2\\webapplication1\\services\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FEB3C8-DAED-439B-8FEB-CF8EFAF3464D}|WebApplication1.csproj|solutionrelative:services\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FEB3C8-DAED-439B-8FEB-CF8EFAF3464D}|WebApplication1.csproj|c:\\users\\agu\\desktop\\finales 2024 - 2025\\examenes finales code first\\gestionpersonajesanime2\\webapplication1\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FEB3C8-DAED-439B-8FEB-CF8EFAF3464D}|WebApplication1.csproj|solutionrelative:dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FEB3C8-DAED-439B-8FEB-CF8EFAF3464D}|WebApplication1.csproj|c:\\users\\agu\\desktop\\finales 2024 - 2025\\examenes finales code first\\gestionpersonajesanime2\\webapplication1\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FEB3C8-DAED-439B-8FEB-CF8EFAF3464D}|WebApplication1.csproj|solutionrelative:dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FEB3C8-DAED-439B-8FEB-CF8EFAF3464D}|WebApplication1.csproj|c:\\users\\agu\\desktop\\finales 2024 - 2025\\examenes finales code first\\gestionpersonajesanime2\\webapplication1\\services\\ipersonajeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FEB3C8-DAED-439B-8FEB-CF8EFAF3464D}|WebApplication1.csproj|solutionrelative:services\\ipersonajeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FEB3C8-DAED-439B-8FEB-CF8EFAF3464D}|WebApplication1.csproj|c:\\users\\agu\\desktop\\finales 2024 - 2025\\examenes finales code first\\gestionpersonajesanime2\\webapplication1\\repositories\\personajerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FEB3C8-DAED-439B-8FEB-CF8EFAF3464D}|WebApplication1.csproj|solutionrelative:repositories\\personajerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FEB3C8-DAED-439B-8FEB-CF8EFAF3464D}|WebApplication1.csproj|c:\\users\\agu\\desktop\\finales 2024 - 2025\\examenes finales code first\\gestionpersonajesanime2\\webapplication1\\repositories\\animerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FEB3C8-DAED-439B-8FEB-CF8EFAF3464D}|WebApplication1.csproj|solutionrelative:repositories\\animerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FEB3C8-DAED-439B-8FEB-CF8EFAF3464D}|WebApplication1.csproj|c:\\users\\agu\\desktop\\finales 2024 - 2025\\examenes finales code first\\gestionpersonajesanime2\\webapplication1\\dtos\\personajedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FEB3C8-DAED-439B-8FEB-CF8EFAF3464D}|WebApplication1.csproj|solutionrelative:dtos\\personajedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FEB3C8-DAED-439B-8FEB-CF8EFAF3464D}|WebApplication1.csproj|c:\\users\\agu\\desktop\\finales 2024 - 2025\\examenes finales code first\\gestionpersonajesanime2\\webapplication1\\models\\gestionanimecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FEB3C8-DAED-439B-8FEB-CF8EFAF3464D}|WebApplication1.csproj|solutionrelative:models\\gestionanimecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FEB3C8-DAED-439B-8FEB-CF8EFAF3464D}|WebApplication1.csproj|c:\\users\\agu\\desktop\\finales 2024 - 2025\\examenes finales code first\\gestionpersonajesanime2\\webapplication1\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FEB3C8-DAED-439B-8FEB-CF8EFAF3464D}|WebApplication1.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FEB3C8-DAED-439B-8FEB-CF8EFAF3464D}|WebApplication1.csproj|c:\\users\\agu\\desktop\\finales 2024 - 2025\\examenes finales code first\\gestionpersonajesanime2\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E3FEB3C8-DAED-439B-8FEB-CF8EFAF3464D}|WebApplication1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -17,38 +73,226 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 249,
+          "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\agu\\Desktop\\Finales 2024 - 2025\\Examenes Finales Base first\\TemplateC-CF\\WebApplication1\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\agu\\Desktop\\Finales 2024 - 2025\\Examenes Finales Base first\\TemplateC-CF\\WebApplication1\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-02T20:26:16.395Z",
+              "DocumentIndex": 6,
+              "Title": "ILoginService.cs",
+              "DocumentMoniker": "C:\\Users\\agu\\Desktop\\Finales 2024 - 2025\\Examenes Finales Code First\\GestionPersonajesAnime2\\WebApplication1\\Services\\ILoginService.cs",
+              "RelativeDocumentMoniker": "Services\\ILoginService.cs",
+              "ToolTip": "C:\\Users\\agu\\Desktop\\Finales 2024 - 2025\\Examenes Finales Code First\\GestionPersonajesAnime2\\WebApplication1\\Services\\ILoginService.cs",
+              "RelativeToolTip": "Services\\ILoginService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T23:19:46.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonajeService.cs",
+              "DocumentMoniker": "C:\\Users\\agu\\Desktop\\Finales 2024 - 2025\\Examenes Finales Code First\\GestionPersonajesAnime2\\WebApplication1\\Services\\Impl\\PersonajeService.cs",
+              "RelativeDocumentMoniker": "Services\\Impl\\PersonajeService.cs",
+              "ToolTip": "C:\\Users\\agu\\Desktop\\Finales 2024 - 2025\\Examenes Finales Code First\\GestionPersonajesAnime2\\WebApplication1\\Services\\Impl\\PersonajeService.cs",
+              "RelativeToolTip": "Services\\Impl\\PersonajeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T23:12:36.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Personaje.cs",
+              "DocumentMoniker": "C:\\Users\\agu\\Desktop\\Finales 2024 - 2025\\Examenes Finales Code First\\GestionPersonajesAnime2\\WebApplication1\\Models\\Personaje.cs",
+              "RelativeDocumentMoniker": "Models\\Personaje.cs",
+              "ToolTip": "C:\\Users\\agu\\Desktop\\Finales 2024 - 2025\\Examenes Finales Code First\\GestionPersonajesAnime2\\WebApplication1\\Models\\Personaje.cs",
+              "RelativeToolTip": "Models\\Personaje.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T22:50:45.396Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\agu\\Desktop\\Finales 2024 - 2025\\Examenes Finales Base first\\TemplateC-CF\\WebApplication1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\agu\\Desktop\\Finales 2024 - 2025\\Examenes Finales Code First\\GestionPersonajesAnime2\\WebApplication1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\agu\\Desktop\\Finales 2024 - 2025\\Examenes Finales Base first\\TemplateC-CF\\WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\agu\\Desktop\\Finales 2024 - 2025\\Examenes Finales Code First\\GestionPersonajesAnime2\\WebApplication1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAkwC0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAtwBwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-02T19:56:26.709Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonajeController.cs",
+              "DocumentMoniker": "C:\\Users\\agu\\Desktop\\Finales 2024 - 2025\\Examenes Finales Code First\\GestionPersonajesAnime2\\WebApplication1\\Controllers\\PersonajeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PersonajeController.cs",
+              "ToolTip": "C:\\Users\\agu\\Desktop\\Finales 2024 - 2025\\Examenes Finales Code First\\GestionPersonajesAnime2\\WebApplication1\\Controllers\\PersonajeController.cs",
+              "RelativeToolTip": "Controllers\\PersonajeController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T23:40:07.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "C:\\Users\\agu\\Desktop\\Finales 2024 - 2025\\Examenes Finales Code First\\GestionPersonajesAnime2\\WebApplication1\\Services\\Impl\\LoginService.cs",
+              "RelativeDocumentMoniker": "Services\\Impl\\LoginService.cs",
+              "ToolTip": "C:\\Users\\agu\\Desktop\\Finales 2024 - 2025\\Examenes Finales Code First\\GestionPersonajesAnime2\\WebApplication1\\Services\\Impl\\LoginService.cs",
+              "RelativeToolTip": "Services\\Impl\\LoginService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T23:20:33.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\agu\\Desktop\\Finales 2024 - 2025\\Examenes Finales Code First\\GestionPersonajesAnime2\\WebApplication1\\Dtos\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "Dtos\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\agu\\Desktop\\Finales 2024 - 2025\\Examenes Finales Code First\\GestionPersonajesAnime2\\WebApplication1\\Dtos\\LoginDTO.cs",
+              "RelativeToolTip": "Dtos\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T23:30:40.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PersonajeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\agu\\Desktop\\Finales 2024 - 2025\\Examenes Finales Code First\\GestionPersonajesAnime2\\WebApplication1\\Dtos\\PersonajeDTO.cs",
+              "RelativeDocumentMoniker": "Dtos\\PersonajeDTO.cs",
+              "ToolTip": "C:\\Users\\agu\\Desktop\\Finales 2024 - 2025\\Examenes Finales Code First\\GestionPersonajesAnime2\\WebApplication1\\Dtos\\PersonajeDTO.cs",
+              "RelativeToolTip": "Dtos\\PersonajeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T23:10:32.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\agu\\Desktop\\Finales 2024 - 2025\\Examenes Finales Code First\\GestionPersonajesAnime2\\WebApplication1\\Dtos\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "Dtos\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\agu\\Desktop\\Finales 2024 - 2025\\Examenes Finales Code First\\GestionPersonajesAnime2\\WebApplication1\\Dtos\\RegisterDTO.cs",
+              "RelativeToolTip": "Dtos\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T23:31:22.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPersonajeService.cs",
+              "DocumentMoniker": "C:\\Users\\agu\\Desktop\\Finales 2024 - 2025\\Examenes Finales Code First\\GestionPersonajesAnime2\\WebApplication1\\Services\\IPersonajeService.cs",
+              "RelativeDocumentMoniker": "Services\\IPersonajeService.cs",
+              "ToolTip": "C:\\Users\\agu\\Desktop\\Finales 2024 - 2025\\Examenes Finales Code First\\GestionPersonajesAnime2\\WebApplication1\\Services\\IPersonajeService.cs",
+              "RelativeToolTip": "Services\\IPersonajeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T23:08:49.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AnimeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\agu\\Desktop\\Finales 2024 - 2025\\Examenes Finales Code First\\GestionPersonajesAnime2\\WebApplication1\\Repositories\\AnimeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\AnimeRepository.cs",
+              "ToolTip": "C:\\Users\\agu\\Desktop\\Finales 2024 - 2025\\Examenes Finales Code First\\GestionPersonajesAnime2\\WebApplication1\\Repositories\\AnimeRepository.cs",
+              "RelativeToolTip": "Repositories\\AnimeRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T23:06:24.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PersonajeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\agu\\Desktop\\Finales 2024 - 2025\\Examenes Finales Code First\\GestionPersonajesAnime2\\WebApplication1\\Repositories\\PersonajeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\PersonajeRepository.cs",
+              "ToolTip": "C:\\Users\\agu\\Desktop\\Finales 2024 - 2025\\Examenes Finales Code First\\GestionPersonajesAnime2\\WebApplication1\\Repositories\\PersonajeRepository.cs",
+              "RelativeToolTip": "Repositories\\PersonajeRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAEwCEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T22:59:51.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\agu\\Desktop\\Finales 2024 - 2025\\Examenes Finales Code First\\GestionPersonajesAnime2\\WebApplication1\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\agu\\Desktop\\Finales 2024 - 2025\\Examenes Finales Code First\\GestionPersonajesAnime2\\WebApplication1\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T22:50:44.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GestionAnimeContext.cs",
+              "DocumentMoniker": "C:\\Users\\agu\\Desktop\\Finales 2024 - 2025\\Examenes Finales Code First\\GestionPersonajesAnime2\\WebApplication1\\Models\\GestionAnimeContext.cs",
+              "RelativeDocumentMoniker": "Models\\GestionAnimeContext.cs",
+              "ToolTip": "C:\\Users\\agu\\Desktop\\Finales 2024 - 2025\\Examenes Finales Code First\\GestionPersonajesAnime2\\WebApplication1\\Models\\GestionAnimeContext.cs",
+              "RelativeToolTip": "Models\\GestionAnimeContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T22:50:18.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\agu\\Desktop\\Finales 2024 - 2025\\Examenes Finales Code First\\GestionPersonajesAnime2\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\agu\\Desktop\\Finales 2024 - 2025\\Examenes Finales Code First\\GestionPersonajesAnime2\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-02T20:26:16.395Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 168,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\agu\\Desktop\\Finales 2024 - 2025\\Examenes Finales Code First\\GestionPersonajesAnime2\\WebApplication1\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\agu\\Desktop\\Finales 2024 - 2025\\Examenes Finales Code First\\GestionPersonajesAnime2\\WebApplication1\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T23:26:45.963Z",
+              "EditorCaption": ""
             }
           ]
         }
